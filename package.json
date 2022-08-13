@@ -1,0 +1,24 @@
+{
+  "name": "web-dev-coursera",
+  "version": "1.0.0",
+  "description": "Full Stack Web Dev Course",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DakshDadhania/My-Web-Development-Coursera-repo.git"
+  },
+  "author": "Daksh Dadhania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DakshDadhania/My-Web-Development-Coursera-repo/issues"
+  },
+  "homepage": "https://github.com/DakshDadhania/My-Web-Development-Coursera-repo#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
